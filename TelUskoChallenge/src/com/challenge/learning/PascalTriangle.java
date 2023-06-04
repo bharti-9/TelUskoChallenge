@@ -1,7 +1,7 @@
 package com.challenge.learning;
 
 public class PascalTriangle {
-//by bharti
+//by bharti Chhabaria
 	public int factorial(int i)
     {
         if (i == 0)
